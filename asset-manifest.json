@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Food_Lab_Task/static/css/main.7900e54e.css",
-    "main.js": "/Food_Lab_Task/static/js/main.86f1f957.js",
+    "main.css": "/Food_Lab_Task/static/css/main.4681e14e.css",
+    "main.js": "/Food_Lab_Task/static/js/main.366c70f1.js",
     "static/js/787.3da9f089.chunk.js": "/Food_Lab_Task/static/js/787.3da9f089.chunk.js",
     "static/media/img5.jpg": "/Food_Lab_Task/static/media/img5.fc1cc7078df7c84400b2.jpg",
     "static/media/img2.jpg": "/Food_Lab_Task/static/media/img2.b2fa0aab8b847a67f523.jpg",
@@ -20,12 +20,12 @@
     "static/media/slick.ttf": "/Food_Lab_Task/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Food_Lab_Task/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Food_Lab_Task/index.html",
-    "main.7900e54e.css.map": "/Food_Lab_Task/static/css/main.7900e54e.css.map",
-    "main.86f1f957.js.map": "/Food_Lab_Task/static/js/main.86f1f957.js.map",
+    "main.4681e14e.css.map": "/Food_Lab_Task/static/css/main.4681e14e.css.map",
+    "main.366c70f1.js.map": "/Food_Lab_Task/static/js/main.366c70f1.js.map",
     "787.3da9f089.chunk.js.map": "/Food_Lab_Task/static/js/787.3da9f089.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7900e54e.css",
-    "static/js/main.86f1f957.js"
+    "static/css/main.4681e14e.css",
+    "static/js/main.366c70f1.js"
   ]
 }
