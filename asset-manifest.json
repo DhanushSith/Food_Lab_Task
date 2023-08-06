@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Food_Lab_Task/static/css/main.7900e54e.css",
+    "main.js": "/Food_Lab_Task/static/js/main.86f1f957.js",
+    "static/js/787.3da9f089.chunk.js": "/Food_Lab_Task/static/js/787.3da9f089.chunk.js",
+    "static/media/img5.jpg": "/Food_Lab_Task/static/media/img5.fc1cc7078df7c84400b2.jpg",
+    "static/media/img2.jpg": "/Food_Lab_Task/static/media/img2.b2fa0aab8b847a67f523.jpg",
+    "static/media/banner1.png": "/Food_Lab_Task/static/media/banner1.7174f841f2144887e556.png",
+    "static/media/img4.jpg": "/Food_Lab_Task/static/media/img4.55e7808f767f59459c5b.jpg",
+    "static/media/img1.jpg": "/Food_Lab_Task/static/media/img1.677916cb508746995f05.jpg",
+    "static/media/lab_3.jpg": "/Food_Lab_Task/static/media/lab_3.0671702b0ad51b695b30.jpg",
+    "static/media/lab_1.jpg": "/Food_Lab_Task/static/media/lab_1.a6e68808965edb458790.jpg",
+    "static/media/img3.jpg": "/Food_Lab_Task/static/media/img3.5732fe617844e7586c70.jpg",
+    "static/media/banner2.jpg": "/Food_Lab_Task/static/media/banner2.4505ec2cff6a251070db.jpg",
+    "static/media/banner3.jpg": "/Food_Lab_Task/static/media/banner3.78a79b23906baef6070f.jpg",
+    "static/media/lab_2.jpg": "/Food_Lab_Task/static/media/lab_2.3eb471396d6128024358.jpg",
+    "static/media/profile.jpeg": "/Food_Lab_Task/static/media/profile.8e6cb5164482e5f63dd5.jpeg",
+    "static/media/slick.svg": "/Food_Lab_Task/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Food_Lab_Task/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Food_Lab_Task/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Food_Lab_Task/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Food_Lab_Task/index.html",
+    "main.7900e54e.css.map": "/Food_Lab_Task/static/css/main.7900e54e.css.map",
+    "main.86f1f957.js.map": "/Food_Lab_Task/static/js/main.86f1f957.js.map",
+    "787.3da9f089.chunk.js.map": "/Food_Lab_Task/static/js/787.3da9f089.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7900e54e.css",
+    "static/js/main.86f1f957.js"
+  ]
+}
